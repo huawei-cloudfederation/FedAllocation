@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#something wrong
 export MESOS_HOME_DIR="$HOME/src/mesos"
 
 #echo $MESOS_HOME_DIR
